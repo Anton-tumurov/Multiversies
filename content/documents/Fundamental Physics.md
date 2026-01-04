@@ -1,3 +1,7 @@
+---
+title: Fundamental Physics & Reality Architecture of the Multiverse
+---
+
 > **Classification:** MEC Internal Documentation **Clearance Required:** LoC-5 (Administrator) or higher **Compiled by:** Multiversal Employee Council (MEC)
 
 ---

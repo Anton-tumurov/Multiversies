@@ -1,4 +1,6 @@
-# Organizations and Governing Entities
+---
+title: Organizations and Governing Entities
+---
 
 ## 1. [[Anonymous]] (Origin Authority)
 

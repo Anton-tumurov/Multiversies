@@ -1,7 +1,6 @@
 ---
 title: Multiversies — Multiversal Systems Documentation
 ---
-# Multiversies — Multiversal Systems Documentation
 
 This repository contains the canonical documentation for **Multiversies** (aka M-verse), a worldbuilding project I created detailing a structured multiversal framework composed of layered reality fields, controlled universes, and administrative entities operating beyond conventional spacetime.
 
@@ -73,4 +72,4 @@ Or as a CC License:
 ---
 ## Newcomers:
 
-With that out of the way, I would recommend starting here to understand the world: [[Fundamental Physics & Reality Architecture of the Multiverse]]
+With that out of the way, I would recommend starting here to understand the world: [[Fundamental Physics]]

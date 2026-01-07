@@ -5,10 +5,10 @@ tags:
 ---
 > Dr. Edrin Vale (Lead Engineer, Department of Temporal-Probabilistic Systems, [[MTO]])
 > Dr. R. Yvanessa (Adjunct Consultant, [[MEC]] Division of Experimental Matter)
-> Classified Contributor [[A589]] (Field Evaluator, Q-WFM Tier Protocol)
+> Classified Contributor [[A589]] (MTO Field Evaluator, Q-WFM Tier Protocol)
 
 ---
-
+A pdf version of this paper exists at: [[content/documents/QWM_PROT_3A_Research_Paper.pdf|QWM_PROT_3A_Research_Paper]]
 > [!abstract]
 > This paper introduces and details the QWM-PROT-3A, a handheld quantum field modulation device designed to selectively collapse probabilistic states into desired deterministic outcomes. By directly interfacing with the $\Psi$ (psi) wave function of macroscopic systems, the device enables controlled navigation across a defined Hilbert space. This report outlines the construction, theoretical basis, and operational mechanisms of the device, with emphasis on multi-dimensional phase-space adjustment, partial decoherence steering, and anthropic calibration.
 

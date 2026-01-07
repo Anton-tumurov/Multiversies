@@ -18,7 +18,7 @@ Anonymous is neither benevolent nor malicious. He simply *exists*, and by existi
 
 ---
 
-## 2. [[Multiversal Employee Council]] (MEC)
+## 2. [[MEC|Multiversal Employee Council]] (MEC)
 
 **Role:** Supreme Administrative Authority
 
@@ -42,7 +42,7 @@ The MEC rarely acts directly. Most of their work is **delegative**, intervening 
 
 ---
 
-## 3. [[Multiversal Universe Operations]] (MUO)
+## 3. [[MUO|Multiversal Universe Operations]] (MUO)
 
 **Role:** Staged Universe Management
 
@@ -64,7 +64,7 @@ MUO **prevents mistakes** before they occur.
 
 ---
 
-## 4. [[Multiversal Civil Office]] (MCO)
+## 4. [[MCO|Multiversal Civil Office]] (MCO)
 
 **Role:** Civil Governance Across Universes
 
@@ -82,7 +82,7 @@ If a human is exposed to the truth, **MCO decides their fate**.
 
 ---
 
-## 5. [[Multiversal Tactical Operators]] (MTO)
+## 5. [[MTO|Multiversal Tactical Operators]] (MTO)
 
 **Role:** Military & Crisis Response Force
 
@@ -120,7 +120,7 @@ With infinite universes, there are infinite threats. The MTO is *never idle*.
 
 ---
 
-## 6. [[Multiversal Police Department]] (MPD)
+## 6. [[MPD|Multiversal Police Department]] (MPD)
 
 **Role:** Policing & Enforcement
 
@@ -138,7 +138,7 @@ MPD ensures **rules are followed**.
 
 ---
 
-## 7. The [[Multiversal Assets Retrieval Program]] (MAR program)
+## 7. The [[MAR Program|Multiversal Assets Retrieval Program]] (MAR Program)
 
 An Asset Recovery and Cleanup program organized by the MEC to facilitate the need for utility in recovery, hiring directly from SL-32 via protocolled practices. They serve not only Departments and Organizations, but additionally Civilians and all others.
 
@@ -167,7 +167,7 @@ MAR retrieves:
 
 ---
 
-## 8. [[Multiversal Logistics]] (MVL)
+## 8. [[MVL|Multiversal Logistics]] (MVL)
 
 **Role:** Universal Manufacturer
 

@@ -88,7 +88,7 @@ FDI is used for portal routing, hazard mapping, and equipment calibration.
 
 ---
 
-### 3.3 World Cubes
+### 3.3 [[World Cube]]s
 
 World Cubes are compacted Quotient engines stabilized into directive lattices.
 
@@ -124,7 +124,7 @@ Failure results in decoherence or nonexistence.
 
 ---
 
-## 6. Corruption
+## 6. [[Corruption]]
 
 Corruption arises from Field misalignment or Void contamination.
 

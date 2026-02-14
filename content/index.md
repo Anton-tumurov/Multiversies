@@ -29,12 +29,13 @@ Any resemblance is incidental.
 ---
 ## A little Backstory:
 
-Multiversies is a worldbuilding project I started in about 2022 (grade 4) with my friends [[Louis Searchfield|Louis]] and [[Hudson Klease|Hudson]] (the actual people, not characters), where we simply designed our characters, [[Blank A]], [[LS]], and [[The Time Traveler]]. Just the characters and their items. I _innovated_ the basic **original** concept that,
+Multiversies is a worldbuilding project I started in about 2022 (grade 4) with my friends [[Louis Searchfield|Louis]] and [[Hudson Clease|Hudson]], where we simply designed our characters, [[Blank A]], [[LS]], and [[Hudson Clease|The Time Traveler]]. Just the characters and their items. I _innovated_ the basic **original** concept that,
+
 > _"All stories, movies, TV shows etc. Are just Universes traversable by our characters"_
 
 At that time, Multiversies was just a kind of battle arena we would play during recess _Like Smash Bros_, and draw pictures in the library during breaks. This, was just the *beginning*
 
-Since then, over the years, we kept on adding more and more to this lore, first it was adding more characters (inviting more friends) then I figured out how to incorporate [[Humans]] and their Universe [[SL-32]] into the story, \[I\] studied advanced physics, made a spin off following the [[MTO]] and My and Louis' second characters [[A589]] and [[L729]]. And now I'm publishing everything here! On the _internet_
+Since then, over the years, we kept on adding more and more to this lore, first it was adding more characters (inviting more friends) then I figured out how to incorporate [[Humans]] and their Universe [[SL-32]] into the story, \[I\] studied some physics, made a spin off following the [[MTO]] and My and Louis' second characters [[A589]] and [[L729]]. And now I'm publishing everything here! On the _internet_
 
 >[!note]
 >Some of these documents are written with assistance of AI, but all ideas and concepts are my original
@@ -44,7 +45,7 @@ Since then, over the years, we kept on adding more and more to this lore, first 
 
 The repository is divided into several primary sections:
 
-- `/articles` — Out-of-universe _wikipedia page_ style documentation
+- `/articles` — Out-of-universe _Wikipedia page_ style documentation
 - `/documents` — Documents ranging anywhere from Field theory, Quotient, Void, to MEC, MUO, MTO, MOD
 - `/media` — Images, Videos, and other attachment media
 
@@ -66,10 +67,15 @@ You are free to read, reference, and analyze the material.
 Reuse, remixing, or derivative works should clearly credit the original project and distinguish themselves from canon.
 
 Or as a CC License:
-
-> <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Multiversies</span> by <span property="cc:attributionName">Anton Tumurov</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Multiversies</span> by <span property="cc:attributionName">Anton Tumurov</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ---
 ## Newcomers:
 
-With that out of the way, I would recommend starting here to understand the world: [[Fundamental Physics]]
+With that out of the way, I would here are my recommend starting points to understand the world:
+
+- [[Fundamental Physics]]
+- [[SL‑32]]
+- [[Organizations]]
+
+This site is meant to be navigated _freely_ by clicking on links and viewing documents. I have built it in obsidian for that purpose.

@@ -1,7 +1,26 @@
 ---
 title: Organizations and Governing Entities
+tags: organization 
 ---
+```mermaid
+flowchart TD
+  Anon[Anonymous]
+  MEC[Multiversal Employee Council]
+  MUO[Multiversal Universe Operations]
+  MCO[Multiversal Civil Office]
+  MTO[Multiversal Tactical Operators]
+  MPD[Multiversal Police Department]
+  MVL[Multiversal Logistics MVL]
+  MAR[MAR Program]
 
+  Anon --> MEC
+  MEC ---> MUO
+  MEC -.operates.-> MAR
+  MEC --> MCO
+  MEC --> MTO
+  MTO -.directs.-> MPD
+  MEC -.funds..-> MVL
+```
 ## 1. [[Anonymous]] (Origin Authority)
 
 Anonymous is not a person, AI, deity, or organization in any human sense.
@@ -185,21 +204,3 @@ MVL produces *everything*. Think of MVL like:
 - Domestic appliances
 
 MVL is the **corporate backbone** of the M‑VERSE.
-
----
-
-## 9. Chain of Interaction
-
-```
-Anonymous
-  |
-  MEC
-  |- MUO
-  |- MCO
-  |- MTO
-      |
-      MPD
-```
-
-MVL supplies all. MAR cleans all.
-

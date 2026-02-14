@@ -67,8 +67,8 @@ Fields are **nested**, forming an onion-like structure around each universe.
 
 Fields are gradients, not discrete shells. Depth is indexed numerically:
 
-- Α.1 → Α.10 (surface to threshold)
-- Γ.01 → Γ.99 (boundary gradients)
+- Α.1 = Α.10 
+- Γ.01 $\neq$ Γ.1
 
 FDI is used for portal routing, hazard mapping, and equipment calibration.
 

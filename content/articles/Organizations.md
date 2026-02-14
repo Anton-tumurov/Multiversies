@@ -67,7 +67,7 @@ The MEC rarely acts directly. Most of their work is **delegative**, intervening 
 
 MUO handles **staged universes**—universes deliberately structured to appear natural to their inhabitants.
 
-### Example: [[SL‑32]]
+### Example: [[SL-32]]
 
 SL‑32 is what [[Humans]] call “reality.” It is *not* base reality—it is a controlled stage.
 

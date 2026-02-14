@@ -3,7 +3,7 @@ title: Blank A
 tags:
   - character
 ---
-Blank A is a high ranking Employee at the [[MEC]], leader of [[The Multiversies]], and the creator of [[LS]]. He is a pioneer, inventor, and physicist, most interested in studying [[Corruption]] Cores and Samples. 
+Blank A is a high ranking Employee and Field Operative at the [[MEC#High Council|MEC High Council]], leader of [[The Multiversies]], and the creator of [[LS]]. He is a pioneer, inventor, and physicist, most interested in studying [[Corruption]] Cores and Samples. 
 ## Appearance
 
 Blank A appears to be a male, approximately 30 years of age, of average height and build. They wear *smart-casual* attire, possessing a standard tactical belt and a radio earpiece on his right ear (which connects to the World cube, used for inter-party communication. The belt hold items such as:

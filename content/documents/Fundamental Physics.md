@@ -249,7 +249,8 @@ The MEC are often referred to—incorrectly—as *Multiversal Gods*. In truth, t
 The MEC rarely acts directly. Most of their work is **delegative**, intervening only when corruption, systemic failure, or existential threats arise.
 
 > [!info]
-> View the full document at [[Organizations]]
+> Main article: [[Organizations]]
+> Original Article: [[]]
 
 ---
 

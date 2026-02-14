@@ -75,7 +75,7 @@ Or as a CC License:
 With that out of the way, I would here are my recommend starting points to understand the world:
 
 - [[Fundamental Physics]]
-- [[SL‑32]]
+- [[SL-32]]
 - [[Organizations]]
 
 This site is meant to be navigated _freely_ by clicking on links and viewing documents. I have built it in obsidian for that purpose.
